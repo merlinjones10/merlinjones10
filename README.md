@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Merlin, a software developer based in the UK
 
-#### Find my [website](#) here
+#### Find my [website here](https://www.merlinjones.com) 
 
 <!-- https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white -->
 
