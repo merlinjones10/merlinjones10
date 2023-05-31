@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Merlin, a software developer based in the UK
 
 - 🕷 Find my [website here](https://www.merlinjones.com). 
-- 👨‍🎓 [School of Code](https://github.com/SchoolOfCode) graudate.
+
 
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
